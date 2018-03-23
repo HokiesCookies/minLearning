@@ -1,0 +1,131 @@
+@media screen and (min-device-width: 481px) {
+  #guarantee {
+    margin-right: 250px;
+  }
+}
+
+@media screen and (max-device-width: 480px) {
+  #guarantee {
+    margin-right: 30px;
+  }
+}
+
+@media print {
+  body {
+  font-family: cursive; serif;
+  }
+}
+
+body {
+      font-weight: normal;
+      background-image: url(black-hole.gif);
+      background-size: 1500px 1500px;
+      background-repeat: no-repeat;
+      color: olive;
+      font-family: Verdana;
+      font-size: 14px;
+      margin-left: 20%;
+      margin-right: 20%;
+      line-height: 1.6em;
+    }
+
+    #rights {
+      font-size: 50%;
+      text-align: center;
+      line-height: normal;
+      margin-top: 30px;
+    }
+
+    a:link {
+      color: black;
+    }
+    a:visited {
+      color: black;
+    }
+    a:hover {
+      color: #007e7e;
+    }
+
+  h1 {
+    font-size: 250%;
+    color: #20B2AA;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  h2 {
+    font-size: 1.7em;
+    font-family: cursive;
+    font-weight: normal;
+    color: rgb(80%, 40%, 0%);
+    text-decoration: underline overline;
+  }
+
+  li {
+    color: #20B2AA;
+  }
+
+  blockquote {
+    font-style: italic;
+  }
+
+    .green {
+      line-height: normal;
+      color: green;
+      font-weight: normal;
+      font-style: italic;
+      font-family: cursive;
+      color: black;
+      border-color: white;
+      border-width: 2px;
+      border-style: solid;
+      border-left-color: yellow;
+      border-left-style: solid;
+      border-left-width: thick;
+      background-color: white;
+      padding: 25px;
+      padding-left: 80px;
+      margin: 30px;
+
+
+     }
+    .red { color: red; }
+    .blue { color: blue; }
+    .line { text-decoration: underline; }
+
+    #guarantee {
+      line-height: 1.9em;
+      font-style: italic;
+      font-family: cursive;
+      color: black;
+      border-color: #20B2AA;
+      border-width: 2px;
+      border-style: solid;
+      background-color: white;
+      padding: 25px;
+      padding-left: 80px;
+      margin: 30px;
+      margin-right: 300px;
+      background-image: url(512.png);
+      background-size: 59px 59px;
+      background-repeat: no-repeat;
+      background-position: top left;
+    }
+
+    .forall {
+      text-align: center;
+      background-color: black;
+      padding: 5px;
+      padding-left: 10px;
+      margin: 10px;
+    }
+
+    .city {
+      font-style: italic;
+    }
+    .state {
+      font-weight: bold;
+    }
+    #float {
+      float: right;
+    }
